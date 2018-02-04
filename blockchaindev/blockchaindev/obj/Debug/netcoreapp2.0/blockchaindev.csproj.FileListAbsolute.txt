@@ -1,0 +1,11 @@
+C:\Users\A_mah\Documents\blockchaincsharp\blockchaindev\blockchaindev\bin\Debug\netcoreapp2.0\blockchaindev.deps.json
+C:\Users\A_mah\Documents\blockchaincsharp\blockchaindev\blockchaindev\bin\Debug\netcoreapp2.0\blockchaindev.runtimeconfig.json
+C:\Users\A_mah\Documents\blockchaincsharp\blockchaindev\blockchaindev\bin\Debug\netcoreapp2.0\blockchaindev.runtimeconfig.dev.json
+C:\Users\A_mah\Documents\blockchaincsharp\blockchaindev\blockchaindev\bin\Debug\netcoreapp2.0\blockchaindev.dll
+C:\Users\A_mah\Documents\blockchaincsharp\blockchaindev\blockchaindev\obj\Debug\netcoreapp2.0\blockchaindev.csprojResolveAssemblyReference.cache
+C:\Users\A_mah\Documents\blockchaincsharp\blockchaindev\blockchaindev\obj\Debug\netcoreapp2.0\blockchaindev.csproj.CoreCompileInputs.cache
+C:\Users\A_mah\Documents\blockchaincsharp\blockchaindev\blockchaindev\obj\Debug\netcoreapp2.0\blockchaindev.AssemblyInfoInputs.cache
+C:\Users\A_mah\Documents\blockchaincsharp\blockchaindev\blockchaindev\obj\Debug\netcoreapp2.0\blockchaindev.AssemblyInfo.cs
+C:\Users\A_mah\Documents\blockchaincsharp\blockchaindev\blockchaindev\bin\Debug\netcoreapp2.0\blockchaindev.pdb
+C:\Users\A_mah\Documents\blockchaincsharp\blockchaindev\blockchaindev\obj\Debug\netcoreapp2.0\blockchaindev.dll
+C:\Users\A_mah\Documents\blockchaincsharp\blockchaindev\blockchaindev\obj\Debug\netcoreapp2.0\blockchaindev.pdb
